@@ -1,0 +1,20 @@
+body {
+	font-size: 16px;
+	color: #fff;
+	background-color: #61122f;
+	font-family: Oxygen;
+}
+
+#header-nav{
+	background-color: #fff;
+	border-radius: 0;
+	border:0;
+
+}
+
+#logo-img{
+	background: url('../images/Logo1.png') no-repeat;
+	width: 240px;
+	height: 210px;
+	margin: 10px 15px 10px 0;
+}
